@@ -18,4 +18,3 @@ To build this application I used HTML, CSS and Javascript
 If there are any complications contact me on lauramacharia117@gmail.com
 ### License
 Copyright (c) {2019} 
-  
