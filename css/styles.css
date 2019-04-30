@@ -1,0 +1,10 @@
+body{
+    background-color:grey;
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    font-family: sans-serif;
+    font-style: italic;
+    color: plum;
+}
