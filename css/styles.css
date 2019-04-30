@@ -9,7 +9,8 @@ h1{
     color: plum;
 }
 button{
-    color:grey;
+    color:black;
+    font-size: 25px;
     background-color: plum;
     border-radius: 20px;
 }
