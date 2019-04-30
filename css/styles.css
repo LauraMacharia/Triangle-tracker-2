@@ -14,3 +14,8 @@ button{
     background-color: plum;
     border-radius: 20px;
 }
+input{
+    background-color: palevioletred;
+    color: black;
+    border-radius: 20px;
+}
