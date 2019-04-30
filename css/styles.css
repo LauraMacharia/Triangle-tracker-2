@@ -8,3 +8,8 @@ h1{
     font-style: italic;
     color: plum;
 }
+button{
+    color:grey;
+    background-color: plum;
+    border-radius: 20px;
+}
